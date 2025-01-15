@@ -44,7 +44,7 @@ npm intall
 
 run:
 ```
-docker-compose up -d db
+docker-compose up -d postgres
 npm run dev
 ```
 
